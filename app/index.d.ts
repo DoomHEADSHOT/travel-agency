@@ -1,4 +1,4 @@
-declare interface BaseUser {
+  declare interface BaseUser {
   id: string;
   name: string;
   email: string;
